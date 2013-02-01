@@ -1,0 +1,8 @@
+rootProject.name='workbook'
+
+include 'wokbook-db'
+include 'wokbook-java'
+include 'wokbook-junit'
+include 'wokbook-patterns'
+include 'wokbook-spring'
+include 'wokbook-web'

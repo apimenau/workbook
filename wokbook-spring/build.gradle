@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+versionMajor=1
+versionMinor=0
+versionBuild=0
+
+repositories {
+    mavenCentral()
+}
